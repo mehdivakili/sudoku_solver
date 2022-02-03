@@ -14,4 +14,4 @@ just write your sudoku puzzle in this way in input
 71?????4?
 </pre>
 
-and than a graphical window show up, tap UP key for going forward and tap DOWN for going backward
+and than a graphical window show up, tap UP key for going backward and tap DOWN for going forward
